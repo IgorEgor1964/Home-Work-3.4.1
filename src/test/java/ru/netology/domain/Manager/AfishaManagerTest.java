@@ -97,6 +97,8 @@ class AfishaManagerTest {
         manager.add(first);
         manager.add(second);
         manager.add(third);
+        manager.add(fourth);
+        manager.add(fifth);
         AfishaManager manager = new AfishaManager(0);
         Movie[] expected = new Movie[0];
 

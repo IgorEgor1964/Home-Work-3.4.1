@@ -61,9 +61,6 @@
                     <execution>
                         <id>verify</id>
                         <phase>verify</phase>
-                        <goals>
-                            <goal>check</goal>
-                        </goals>
                     </execution>
                 </executions>
                 <configuration>
